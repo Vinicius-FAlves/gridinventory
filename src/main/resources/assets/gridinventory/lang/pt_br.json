@@ -1,0 +1,8 @@
+{
+  "key.gridinventory.open": "Abrir Grid Inventory",
+  "key.categories.gridinventory": "Grid Inventory",
+  "screen.gridinventory.title": "Grid Inventory",
+  "screen.gridinventory.hint": "Passe o mouse sobre um item para ver a forma",
+  "screen.gridinventory.info": "%s - forma %sx%s (%s células)",
+  "screen.gridinventory.overflow": "Sem espaço no grid (%s):"
+}
